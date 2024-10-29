@@ -11,7 +11,7 @@ function duplicateEncode(word) {
       }
   }
   return result;
-
+}
   // or from codewars
  /* function duplicateEncode(word){
    
